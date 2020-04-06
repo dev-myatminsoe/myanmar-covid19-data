@@ -1,78 +1,69 @@
-﻿SR_Pcode,State_Region,Tsp_Pcode,Township,Facility,Date,Male,Female,Total
-MMR008,Bago,MMR008012,Nattalin,အထက (နတ္တလင်း),29/3/2020,17,4,21
-MMR008,Bago,MMR008012,Nattalin,အထက (တာပွန်),29/3/2020,14,3,17
-MMR008,Bago,MMR008012,Nattalin,အလက (ပွတ်စု),29/3/2020,13,0,13
-MMR008,Bago,MMR008012,Nattalin,အထက (ချဉ်ယုတ်ကွင်း),29/3/2020,21,6,27
-MMR008,Bago,MMR008012,Nattalin,အထက (ပေါက်တုန်း),29/3/2020,2,0,2
-MMR008,Bago,MMR008012,Nattalin,အထက (ဒမငယ်),29/3/2020,22,2,24
-MMR008,Bago,MMR008012,Nattalin,အထက (ပဲမခမ်း),29/3/2020,4,1,5
-MMR008,Bago,MMR008012,Nattalin,အထက (အောင်ဇေယျာ),29/3/2020,16,2,18
-MMR008,Bago,MMR008012,Nattalin,အထက (ကြိုးကြာကန်),29/3/2020,1,0,1
-MMR008,Bago,MMR008012,Nattalin,ရေမွေး,29/3/2020,8,0,8
-MMR008,Bago,MMR008012,Nattalin,အထက (နတ္တလင်း),30/3/2020,2,1,3
-MMR008,Bago,MMR008012,Nattalin,အထက (တာပွန်),30/3/2020,2,0,2
-MMR008,Bago,MMR008012,Nattalin,အလက (ပွတ်စု),30/3/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,အထက (ချဉ်ယုတ်ကွင်း),30/3/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,အထက (ပေါက်တုန်း),30/3/2020,3,0,3
-MMR008,Bago,MMR008012,Nattalin,အထက (ဒမငယ်),30/3/2020,1,0,1
-MMR008,Bago,MMR008012,Nattalin,အထက (ပဲမခမ်း),30/3/2020,1,0,1
-MMR008,Bago,MMR008012,Nattalin,အထက (အောင်ဇေယျာ),30/3/2020,1,0,1
-MMR008,Bago,MMR008012,Nattalin,အထက (ကြိုးကြာကန်),30/3/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,ရေမွေး,30/3/2020,0,0,0
-MMR008,Bago,MMR008009,Minhla,အထက (မြို့ပြင်),28/3/2020,23,7,30
-MMR008,Bago,MMR008009,Minhla,အထက (စစ်ကွင်း),28/3/2020,22,14,36
-MMR008,Bago,MMR008009,Minhla,အထက (လက်ပံရေကျော်),28/3/2020,19,8,27
-MMR008,Bago,MMR008009,Minhla,အထက-ခွဲ (ကိုင်ပြင်ကြီး),28/3/2020,20,0,20
-MMR008,Bago,MMR008009,Minhla,အထက (စိန်ကန့်လန့်),28/3/2020,35,7,42
-MMR008,Bago,MMR008009,Minhla,အထက (ရွှေလောင်း),28/3/2020,39,8,47
-MMR008,Bago,MMR008009,Minhla,အလက (ရှားတောကွင်း),28/3/2020,13,6,19
-MMR008,Bago,MMR008009,Minhla,အလက (ဂန့်ဂေါ်ပင်),28/3/2020,29,10,39
-MMR008,Bago,MMR008010,Okpho,အထကအုတ်ဖို,30/3/2020,77,23,100
-MMR008,Bago,MMR008010,Okpho,အထက အိုးသည်ကုန်,30/3/2020,35,9,44
-MMR008,Bago,MMR008010,Okpho,အထကအေးမြသာယာ,30/3/2020,30,4,34
-MMR008,Bago,MMR008010,Okpho,အလက လယ်ဦးစု ( လက်ပတောအုပ်စု),30/3/2020,15,10,25
-MMR008,Bago,MMR008010,Okpho,အထက( ခွဲ) ကိုင်းကလေ,30/3/2020,21,4,25
-MMR008,Bago,MMR008014,Gyobingauk,ဗောဓိရိပ်သာကျောင်းတိုက်,30/3/2020,6,3,9
-MMR008,Bago,MMR008014,Gyobingauk,မူလွန်ကံဦး,30/3/2020,5,1,6
-MMR008,Bago,MMR008014,Gyobingauk,မူလွန် ကိုင်းယားရှည်,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,မူလွန် ကွင်းချောင်း,30/3/2020,5,0,5
-MMR008,Bago,MMR008014,Gyobingauk,မူလွန် ဘိုရုံစု,30/3/2020,4,2,6
-MMR008,Bago,MMR008014,Gyobingauk,မူလွန် ကံကလေး,30/3/2020,3,2,5
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) တောင်ပို့ပြောင်,30/3/2020,4,0,4
-MMR008,Bago,MMR008014,Gyobingauk,(အထက) ရွေဗန်းတော,30/3/2020,2,0,2
-MMR008,Bago,MMR008014,Gyobingauk,အထက (ခွဲ) ကျွန်းကုန်းကြီး,30/3/2020,2,0,2
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) သရက်ကုန်း,30/3/2020,7,3,10
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ကြို့ကုန်း,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ငှက်ကြီးသိုက်,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,အထက်စိန်ကြီးရိုးဘုန်းကြီးကျောင်း,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) စိုင်‌ဂေါင်း,30/3/2020,2,0,2
-MMR008,Bago,MMR008014,Gyobingauk,စမ်းအိုင် ငှက်ပျောတောခြံ,30/3/2020,1,1,2
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ရွာသစ်,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အလက) ရှမ်းကွင်း,30/3/2020,2,0,2
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ကြို့ပင်ဝိုင်း,30/3/2020,3,2,5
-MMR008,Bago,MMR008014,Gyobingauk,အုတ်တွင်းကုန်း ဘုန်းကြီးကျောင်း,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဥယျာဉ်ကြီး,30/3/2020,1,4,5
-MMR008,Bago,MMR008014,Gyobingauk,ရန်ကြီးအောင် ဓမ္မာရုံ,30/3/2020,2,4,6
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ရှားဖြူကုန်း,30/3/2020,4,1,5
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) မြို့တွင်း,30/3/2020,1,1,2
-MMR008,Bago,MMR008014,Gyobingauk,အထက (ခွဲ) ကြခတ္တန်းကြီး,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက)လက်ပံဖြူ,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,အထက (ခွဲ)လှေတုန်း,30/3/2020,1,1,2
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဂုံညင်းတန်း,30/3/2020,2,3,5
-MMR008,Bago,MMR008014,Gyobingauk,အထက (ခွဲ) ရှားပင်ထ,30/3/2020,3,0,3
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ယောက်ချောင်း,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,ရွာသစ််ရဲကင်း,30/3/2020,10,1,11
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) အုန်းနှဲကျောတန်း (ရှေ့),30/3/2020,4,1,5
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဂွေးချောင်း,30/3/2020,5,0,5
-MMR008,Bago,MMR008014,Gyobingauk,မကျီးကုန်း ဘုန်းကြီးကျောင်း,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,ဖလံကုန်းဘုရားကြီး,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) အိုးဘိုကုန်း,30/3/2020,4,1,5
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) သပြေရုံ,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) သခွတ်ပင်,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဘန်းဘွေးကုန်း,30/3/2020,2,0,2
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ညောင်လှ,30/3/2020,1,0,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက)လိန်ပင်ကွင်း,30/3/2020,2,2,4
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဘုကြီး,30/3/2020,2,0,2
+SR_Pcode,State_Region,Tsp_Pcode,Township,Facility,Date,Male,Female,Total
+MMR008,Bago,MMR008012,Nattalin,အထက (နတ္တလင်း),5/4/2020,23,5,28
+MMR008,Bago,MMR008012,Nattalin,အထက (တာပွန်),5/4/2020,22,4,26
+MMR008,Bago,MMR008012,Nattalin,အလက (ပွတ်စု),5/4/2020,17,0,17
+MMR008,Bago,MMR008012,Nattalin,အထက (ကရင်ကုန်း),5/4/2020,27,6,33
+MMR008,Bago,MMR008012,Nattalin,အထက (ပေါက်တုန်း),5/4/2020,5,0,5
+MMR008,Bago,MMR008012,Nattalin,အထက (ဒမငယ်),5/4/2020,24,2,26
+MMR008,Bago,MMR008012,Nattalin,အထက (ပဲမခမ်း),5/4/2020,8,1,9
+MMR008,Bago,MMR008012,Nattalin,အထက (အောင်ဇေယျာ),5/4/2020,28,11,39
+MMR008,Bago,MMR008012,Nattalin,အထက (ကြိုးကြာကန်),5/4/2020,3,1,4
+MMR008,Bago,MMR008012,Nattalin,ရေမွေး,5/4/2020,9,1,10
+MMR008,Bago,MMR008009,Minhla,အထက (မြို့ပြင်),5/4/2020,28,9,37
+MMR008,Bago,MMR008009,Minhla,အထက (စစ်ကွင်း),5/4/2020,22,14,36
+MMR008,Bago,MMR008009,Minhla,အထက (လက်ပံရေကျော်),5/4/2020,23,14,37
+MMR008,Bago,MMR008009,Minhla,အထက-ခွဲ (ကိုင်ပြင်ကြီး),5/4/2020,26,1,27
+MMR008,Bago,MMR008009,Minhla,အထက (စိန်ကန့်လန့်),5/4/2020,41,10,51
+MMR008,Bago,MMR008009,Minhla,အထက (ရွှေလောင်း),5/4/2020,49,10,59
+MMR008,Bago,MMR008009,Minhla,အလက (ရှားတောကွင်း),5/4/2020,8,1,9
+MMR008,Bago,MMR008009,Minhla,အလက (ဂန့်ဂေါ်ပင်),5/4/2020,29,8,37
+MMR008,Bago,MMR008010,Okpho,အထကအုတ်ဖို,5/4/2020,80,25,105
+MMR008,Bago,MMR008010,Okpho,အထက အိုးသည်ကုန်,5/4/2020,36,9,45
+MMR008,Bago,MMR008010,Okpho,အထကအေးမြသာယာ,5/4/2020,39,7,46
+MMR008,Bago,MMR008010,Okpho,အလက လယ်ဦးစု ( လက်ပတောအုပ်စု),5/4/2020,15,10,25
+MMR008,Bago,MMR008010,Okpho,အထက( ခွဲ) ကိုင်းကလေ,5/4/2020,24,4,28
+MMR008,Bago,MMR008014,Gyobingauk,ဗောဓိရိပ်သာကျောင်းတိုက်,5/4/2020,8,3,11
+MMR008,Bago,MMR008014,Gyobingauk,အထက (ကြို့ပင်ကောက်),5/4/2020,17,3,20
+MMR008,Bago,MMR008014,Gyobingauk,မူလွန်ကံဦး,5/4/2020,5,1,6
+MMR008,Bago,MMR008014,Gyobingauk,မူလွန် ကိုင်းယားရှည်,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,မူလွန် ကွင်းချောင်း,5/4/2020,5,,5
+MMR008,Bago,MMR008014,Gyobingauk,မူလွန် ဘိုရုံစု,5/4/2020,4,2,6
+MMR008,Bago,MMR008014,Gyobingauk,မူလွန် ကံကလေး,5/4/2020,3,2,5
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) တောင်ပို့ပြောင်,5/4/2020,4,,4
+MMR008,Bago,MMR008014,Gyobingauk,(အထက) ရွေဗန်းတော,5/4/2020,5,,5
+MMR008,Bago,MMR008014,Gyobingauk,အထက (ခွဲ) ကျွန်းကုန်းကြီး,5/4/2020,2,,2
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) သရက်ကုန်း,5/4/2020,7,3,10
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ကြို့ကုန်း,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ငှက်ကြီးသိုက်,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,အထက်စိန်ကြီးရိုးဘုန်းကြီးကျောင်း,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) စိုင်‌ဂေါင်း,5/4/2020,2,,2
+MMR008,Bago,MMR008014,Gyobingauk,စမ်းအိုင် ငှက်ပျောတောခြံ,5/4/2020,1,1,2
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ရွာသစ်,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အလက) ရှမ်းကွင်း,5/4/2020,2,,2
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ကြို့ပင်ဝိုင်း,5/4/2020,5,3,8
+MMR008,Bago,MMR008014,Gyobingauk,အုတ်တွင်းကုန်း ဘုန်းကြီးကျောင်း,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဥယျာဉ်ကြီး,5/4/2020,1,4,5
+MMR008,Bago,MMR008014,Gyobingauk,ရန်ကြီးအောင် ဓမ္မာရုံ,5/4/2020,2,4,6
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ရှားဖြူကုန်း,5/4/2020,4,1,5
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) မြို့တွင်း,5/4/2020,1,2,3
+MMR008,Bago,MMR008014,Gyobingauk,အထက (ခွဲ) ကြခတ္တန်းကြီး,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အမက)လက်ပံဖြူ,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,အထက (ခွဲ)လှေတုန်း,5/4/2020,1,1,2
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဂုံညင်းတန်း,5/4/2020,2,3,5
+MMR008,Bago,MMR008014,Gyobingauk,အထက (ခွဲ) ရှားပင်ထ,5/4/2020,3,,3
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ယောက်ချောင်း,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,ရွာသစ််ရဲကင်း,5/4/2020,13,1,14
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) အုန်းနှဲကျောတန်း (ရှေ့),5/4/2020,8,1,9
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဂွေးချောင်း,5/4/2020,5,,5
+MMR008,Bago,MMR008014,Gyobingauk,မကျီးကုန်း ဘုန်းကြီးကျောင်း,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,ဖလံကုန်းဘုရားကြီး,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) အိုးဘိုကုန်း,5/4/2020,4,1,5
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) သပြေရုံ,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) သခွတ်ပင်,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဘန်းဘွေးကုန်း,5/4/2020,2,,2
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ညောင်လှ,5/4/2020,1,,1
+MMR008,Bago,MMR008014,Gyobingauk,(အမက)လိန်ပင်ကွင်း,5/4/2020,2,2,4
+MMR008,Bago,MMR008014,Gyobingauk,(အမက) ဘုကြီး,5/4/2020,2,,2
 MMR007,Bago,MMR008101,Taungoo,ကရင်ချောင်းကျေးရွာအုပ်စု (ကျေးအင်း-ထုံးဘို အထက်တန်းကျောင်း),30/3/2020,6,4,10
 MMR007,Bago,MMR008101,Taungoo,အနောက်ဆင်ကျေးရွာအုပ်စု (ဆင်ရွာ မူလွန်ကျောင်း),30/3/2020,5,1,6
 MMR007,Bago,MMR008101,Taungoo,သဖန်းပင်ကျေးရွာအုပ်စု,30/3/2020,4,9,13
@@ -251,35 +242,10 @@ MMR006,Tanintharyi,MMR006009,Kawthoung,ရွှေဇင်ယော်ရပ�
 MMR006,Tanintharyi,MMR006004,Yebyu,(ခ)ရပ်ကွက် မီးသတ်ဦးစီးဌာနဝန်ထမ်းအိမ်ရာ,2/4/2020,NA,NA,9
 MMR006,Tanintharyi,MMR006005,Myeik,ကျွဲကူးကျောက်ဖျာဆိပ်ကမ်း ကုန်တင်သင်္ဘော (၃) စီးပေါ်,2/4/2020,NA,NA,13
 MMR006,Tanintharyi,MMR006009,Kawthoung,ပုလုံးတုံတုံးကျောရွာ Shelter,2/4/2020,NA,NA,82
-MMR007,Bago,MMR007011,Kyaukkyi,အ.ထ.က (ကျောက်ကြီး),31/3/2020,47,9,56
-MMR007,Bago,MMR007011,Kyaukkyi,အ.ထ.က (နတ်သံကွင်း),31/3/2020,82,46,128
-MMR007,Bago,MMR007011,Kyaukkyi,အ.ထ.က (မုန်း),31/3/2020,106,67,173
-MMR007,Bago,MMR007011,Kyaukkyi,အ.ထ.က (ညောင်ပင်သာ),31/3/2020,35,8,43
-MMR008,Bago,MMR008012,Nattalin,အထက (နတ္တလင်း),31/3/2020,20,5,25
-MMR008,Bago,MMR008012,Nattalin,အထက (တာပွန်),31/3/2020,17,3,20
-MMR008,Bago,MMR008012,Nattalin,အလက (ပွတ်စု),31/3/2020,15,0,15
-MMR008,Bago,MMR008012,Nattalin,အထက (ချဉ်ယုတ်ကွင်း),31/3/2020,22,6,28
-MMR008,Bago,MMR008012,Nattalin,အထက (ပေါက်တုန်း),31/3/2020,5,0,5
-MMR008,Bago,MMR008012,Nattalin,အထက (ဒမငယ်),31/3/2020,24,1,25
-MMR008,Bago,MMR008012,Nattalin,အထက (ပဲမခမ်း),31/3/2020,5,1,6
-MMR008,Bago,MMR008012,Nattalin,အထက (အောင်ဇေယျာ),31/3/2020,18,2,20
-MMR008,Bago,MMR008012,Nattalin,အထက (ကြိုးကြာကန်),31/3/2020,1,0,1
-MMR008,Bago,MMR008012,Nattalin,ရေမွေး,31/3/2020,8,0,8
-MMR008,Bago,MMR008012,Nattalin,အထက (နတ္တလင်း),1/4/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,အထက (တာပွန်),1/4/2020,1,0,1
-MMR008,Bago,MMR008012,Nattalin,အလက (ပွတ်စု),1/4/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,အထက (ချဉ်ယုတ်ကွင်း),1/4/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,အထက (ပေါက်တုန်း),1/4/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,အထက (ဒမငယ်),1/4/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,အထက (ပဲမခမ်း),1/4/2020,1,0,1
-MMR008,Bago,MMR008012,Nattalin,အထက (အောင်ဇေယျာ),1/4/2020,0,0,0
-MMR008,Bago,MMR008012,Nattalin,အထက (ကြိုးကြာကန်),1/4/2020,1,1,2
-MMR008,Bago,MMR008012,Nattalin,ရေမွေး,1/4/2020,0,0,0
-MMR008,Bago,MMR008014,Gyobingauk,ဗောဓိရိပ်သာကျောင်းတိုက်,31/3/2020,2,0,2
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) မြို့တွင်း,31/3/2020,0,1,1
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) ကြို့ပင်ဝိုင်း,1/4/2020,2,1,3
-MMR008,Bago,MMR008014,Gyobingauk,ရွာသစ််ရဲကင်း,1/4/2020,3,0,3
-MMR008,Bago,MMR008014,Gyobingauk,(အမက) အုန်းနှဲကျောတန်း (ရှေ့),1/4/2020,4,0,4
+MMR007,Bago,MMR007011,Kyaukkyi,အ.ထ.က (ကျောက်ကြီး),3/4/2020,NA,NA,68
+MMR007,Bago,MMR007011,Kyaukkyi,အ.ထ.က (နတ်သံကွင်း),3/4/2020,NA,NA,107
+MMR007,Bago,MMR007011,Kyaukkyi,အ.ထ.က (မုန်း),3/4/2020,NA,NA,112
+MMR007,Bago,MMR007011,Kyaukkyi,အ.ထ.က (ညောင်ပင်သာ),3/4/2020,NA,NA,43
 MMR007,Bago (East),MMR007008,Shwegyin,ကံဘေးအိုင်ကျေးရွာ၊ ပန်းငွေရုံဓမ္မရုံသီရိပ်သာ,28/3/2020,2,0,2
 MMR008,Bago (East),MMR007009,Shwegyin,ကံဘေးအိုင်ကျေးရွာ၊ ပန်းငွေရုံဓမ္မရုံသီရိပ်သာ,29/3/2020,2,1,3
 MMR013,Yangon,MMR013040,Hlaing,Hlaing Quarantine,1/4/2020,NA,NA,334
@@ -310,22 +276,6 @@ MMR007,Bago (East),MMR007005,Nyaunglebin,အလက(ခွဲ)နဘဲပင်,
 MMR007,Bago (East),MMR007001,Bago,ဘုရားကြီးမြို့၊ အမှတ် (၂)ရပ်ကွက် အထကအခြေခံပညာအထက်တန်းကျောင်း,2/4/2020,18,15,33
 MMR007,Bago (East),MMR007001,Bago,ပဲခူးတက္ကသိုလ်,2/4/2020,66,39,105
 MMR007,Bago (East),MMR007001,Bago,အသောကဘုန်းကြီးကျောင်း,2/4/2020,1,0,1
-MMR002,Kayah,MMR002001,Loikaw,သာသနာ့ဗိမာန်,2/4/2020,42,31,73
-MMR002,Kayah,MMR002001,Loikaw,အား/ကာသိပ္ပံ,2/4/2020,58,28,86
-MMR002,Kayah,MMR002001,Loikaw,သူနာပြု/သားဖွား သင်တန်းကျောင်း,2/4/2020,28,19,47
-MMR002,Kayah,MMR002002,Demoso,ဒီးမော့ဆို အ.ထ.က,2/4/2020,34,49,83
-MMR002,Kayah,MMR002002,Demoso,နန်းမယ်ခုံ အ.ထ.က,2/4/2020,43,21,64
-MMR002,Kayah,MMR002002,Demoso,ပန်ပက် အ.လ.က,2/4/2020,22,25,47
-MMR002,Kayah,MMR002002,Demoso,မိုးလုံလေလုံ အားကစားရုံ,2/4/2020,16,0,16
-MMR002,Kayah,MMR002003,Hpruso,မြို့နယ်ခန်းမ,2/4/2020,24,0,24
-MMR002,Kayah,MMR002003,Hpruso,လောဘူးဒါး အ.လ.က(ခွဲ),2/4/2020,4,29,33
-MMR002,Kayah,MMR002004,Shadaw,ရှားတော အ.ထ.က,2/4/2020,20,5,25
-MMR002,Kayah,MMR002005,Bawlake,ဆေးရုံ (မိခင်ကလေးရုံးဟောင်း),2/4/2020,0,1,1
-MMR002,Kayah,MMR002005,Bawlake,ရွာသစ် အ.ထ.က,2/4/2020,0,0,0
-MMR002,Kayah,MMR002005,Bawlake,ရွာသစ်ခန်းမဆောင်,2/4/2020,0,0,0
-MMR002,Kayah,MMR002006,Hpasawng,ဖားဆောင်း အ.ထ.က,2/4/2020,0,1,1
-MMR002,Kayah,MMR002006,Hpasawng,လိုခါးလို ကြယ်ဖြူခန်းမ (မော်ချီး),2/4/2020,0,1,1
-MMR002,Kayah,MMR002007,Mese,မယ်စဲ့မြို့နယ် ကျန်းမာရေးဌာနပိုင်အဆောက်အဦ,2/4/2020,3,3,6
 MMR013,Yangon,MMR013029,Kungyangon,အမက(မူလွန်)ရေတိမ်,2/4/2020,NA,NA,1
 MMR013,Yangon,MMR013029,Kungyangon,အမက(သောင်ခုန်),2/4/2020,NA,NA,1
 MMR013,Yangon,MMR013029,Kungyangon,အမက(ခလောက်တရာ),2/4/2020,NA,NA,2
@@ -408,32 +358,32 @@ MMR009,Magway,MMR009016,Aunglan,နေအိမ်တွင် စောင့�
 MMR009,Magway,MMR009016,Aunglan,နေအိမ်တွင် စောင့်ကြည့်ခံရသူ-သမ္ဘူလ,1/4/2020,NA,NA,285
 MMR009,Magway,MMR009016,Aunglan,နေအိမ်တွင် စောင့်ကြည့်ခံရသူ-တလုတ်ပင်,1/4/2020,NA,NA,94
 MMR009,Magway,MMR009016,Aunglan,နေအိမ်တွင် စောင့်ကြည့်ခံရသူ-အင်းလယ်,1/4/2020,NA,NA,39
-MMR007,Bago (East),MMR007014,Htantabin,"ထန်းတပင်မြို့မ,အထကထန်းတပင်",30/3/2020,17,8,25
-MMR007,Bago (East),MMR007014,Htantabin,အလကခွဲဆိပ်ကြီး,30/3/2020,7,1,8
-MMR007,Bago (East),MMR007014,Htantabin,အမက ရေကျော်,30/3/2020,2,2,4
-MMR007,Bago (East),MMR007014,Htantabin,အလက ကြံခင်း,30/3/2020,7,9,16
-MMR007,Bago (East),MMR007014,Htantabin,အလက ချောင်းခြား,30/3/2020,13,6,19
-MMR007,Bago (East),MMR007014,Htantabin,အလကကျီတော်,30/3/2020,8,2,10
-MMR007,Bago (East),MMR007014,Htantabin,အထကနတ်ရွာ,30/3/2020,23,13,36
-MMR007,Bago (East),MMR007014,Htantabin,အလကခွဲနှစ်တန့်ကူး,30/3/2020,20,17,37
-MMR007,Bago (East),MMR007014,Htantabin,အထကဇရပ်ကြီး,30/3/2020,39,26,65
-MMR007,Bago (East),MMR007014,Htantabin,အထကကင်းမွန်ချုံ,30/3/2020,13,7,20
-MMR007,Bago (East),MMR007014,Htantabin,အမကဒါးဒေါက်,30/3/2020,6,2,8
-MMR007,Bago (East),MMR007014,Htantabin,အထကခွဲအုန်းပင်,30/3/2020,13,11,24
-MMR007,Bago (East),MMR007014,Htantabin,အမကအင်းယားကြီး,30/3/2020,7,11,18
-MMR007,Bago (East),MMR007014,Htantabin,အမကသပြေကုန်း,30/3/2020,21,7,28
-MMR007,Bago (East),MMR007014,Htantabin,အမကစပါးကျီ,30/3/2020,29,12,41
-MMR007,Bago (East),MMR007014,Htantabin,အထကခွဲမြို့စိုး,30/3/2020,6,1,7
-MMR007,Bago (East),MMR007014,Htantabin,အမကကြိမ်တောမြောင်,30/3/2020,15,3,18
-MMR007,Bago (East),MMR007014,Htantabin,ငါ့းဆီးလှောင်,30/3/2020,4,2,6
-MMR007,Bago (East),MMR007014,Htantabin,အမကကွေ့ကြီး,30/3/2020,2,NA,2
-MMR007,Bago (East),MMR007014,Htantabin,အလကခွဲခြံကြီး,30/3/2020,8,2,10
-MMR007,Bago (East),MMR007014,Htantabin,အထကသရက်တန်း,30/3/2020,11,9,20
-MMR007,Bago (East),MMR007014,Htantabin,အထက လှည်းလမ်းကူး,30/3/2020,39,17,56
-MMR007,Bago (East),MMR007014,Htantabin,အမက ကြို့ကုန်း,30/3/2020,1,1,2
-MMR007,Bago (East),MMR007014,Htantabin,အမကရှားစေးဘို,30/3/2020,2,2,4
-MMR007,Bago (East),MMR007014,Htantabin,အလကခွဲ ဇလုပ်ကြီး,30/3/2020,17,2,19
-MMR007,Bago (East),MMR007014,Htantabin,အထက ဇီးဖြူသောင်,30/3/2020,13,13,26
+MMR007,Bago (East),MMR007014,Htantabin,"ထန်းတပင်မြို့မ,အထကထန်းတပင်",5/4/2020,57,26,83
+MMR007,Bago (East),MMR007014,Htantabin,အလကခွဲဆိပ်ကြီး,5/4/2020,5,1,6
+MMR007,Bago (East),MMR007014,Htantabin,အမက ရေကျော်,5/4/2020,14,1,15
+MMR007,Bago (East),MMR007014,Htantabin,အလက ကြံခင်း,5/4/2020,8,12,20
+MMR007,Bago (East),MMR007014,Htantabin,အလက ချောင်းခြား,5/4/2020,13,11,24
+MMR007,Bago (East),MMR007014,Htantabin,အလကကျီတော်,5/4/2020,8,2,10
+MMR007,Bago (East),MMR007014,Htantabin,အထကနတ်ရွာ,5/4/2020,23,13,36
+MMR007,Bago (East),MMR007014,Htantabin,အလကခွဲနှစ်တန့်ကူး,5/4/2020,19,17,36
+MMR007,Bago (East),MMR007014,Htantabin,အထကဇရပ်ကြီး,5/4/2020,28,25,53
+MMR007,Bago (East),MMR007014,Htantabin,အထကကင်းမွန်ချုံ,5/4/2020,14,8,22
+MMR007,Bago (East),MMR007014,Htantabin,အမကဒါးဒေါက်,5/4/2020,6,2,8
+MMR007,Bago (East),MMR007014,Htantabin,အထကခွဲအုန်းပင်,5/4/2020,9,6,15
+MMR007,Bago (East),MMR007014,Htantabin,အမကအင်းယားကြီး,5/4/2020,5,5,10
+MMR007,Bago (East),MMR007014,Htantabin,အမကသပြေကုန်း,5/4/2020,12,6,18
+MMR007,Bago (East),MMR007014,Htantabin,အမကစပါးကျီ,5/4/2020,9,4,13
+MMR007,Bago (East),MMR007014,Htantabin,အထကခွဲမြို့စိုး,5/4/2020,7,2,9
+MMR007,Bago (East),MMR007014,Htantabin,အမကကြိမ်တောမြောင်,5/4/2020,15,3,18
+MMR007,Bago (East),MMR007014,Htantabin,ငါ့းဆီးလှောင်,5/4/2020,5,2,7
+MMR007,Bago (East),MMR007014,Htantabin,အမကကွေ့ကြီး,5/4/2020,2,0,2
+MMR007,Bago (East),MMR007014,Htantabin,အလကခွဲခြံကြီး,5/4/2020,8,2,10
+MMR007,Bago (East),MMR007014,Htantabin,အထကသရက်တန်း,5/4/2020,12,13,25
+MMR007,Bago (East),MMR007014,Htantabin,အထက လှည်းလမ်းကူး,5/4/2020,41,16,57
+MMR007,Bago (East),MMR007014,Htantabin,အမက ကြို့ကုန်း,5/4/2020,0,2,2
+MMR007,Bago (East),MMR007014,Htantabin,အမကရှားစေးဘို,5/4/2020,2,2,4
+MMR007,Bago (East),MMR007014,Htantabin,အလကခွဲ ဇလုပ်ကြီး,5/4/2020,17,2,19
+MMR007,Bago (East),MMR007014,Htantabin,အထက ဇီးဖြူသောင်,5/4/2020,10,8,18
 MMR015,Shan (North),MMR015002,Hseni,မိုင်းလီ (ရွာပြင်),1/4/2020,1,1,2
 MMR016,Shan (North),MMR015003,Hseni,ပန်လော့ (ခန်းမ),1/4/2020,4,0,4
 MMR017,Shan (North),MMR015004,Hseni,နမ့်တုတ် (ခန်းမ),1/4/2020,0,3,3
@@ -447,7 +397,7 @@ MMR014,Yangon,MMR013023,Mingalartaungnyunt,ဘာသာရေးအဆောက�
 MMR015,Yangon,MMR013024,Mingalartaungnyunt,အခြားနေရာများ,2/4/2020,NA,NA,7
 MMR017,Shan (North),MMR015004,Hseni,နေအိမ်,25/3/2020,NA,NA,133
 MMR018,Shan (North),MMR015005,Hseni,ဘာသာရေးအဆောက်အဦး,25/3/2020,NA,NA,9
-MMR019,Shan (North),MMR015006,Hseni,အခြားနေရာများ,3/25/2020,NA,NA,16
+MMR019,Shan (North),MMR015006,Hseni,အခြားနေရာများ,25/3/2020,NA,NA,16
 MMR010,Mandalay,MMR010D001,Mandalay,ရွှေပြည်သာ ဟိုတယ်၊ မန္တလေး (Hotel Quarantine),2/4/2020,NA,NA,21
 MMR010,Mandalay,MMR010022,Nyaung-U,ရာဇဂြိုလ်ဟိုတယ်၊ညောင်ဦး (Hotel Quarantine),2/4/2020,NA,NA,15
 MMR010,Mandalay,MMR010022,Nyaung-U,လောကသစ္စာဟိုတယ်၊ ညောင်ဦး (Hotel Quarantine),2/4/2020,NA,NA,46
@@ -465,3 +415,26 @@ MMR001,Kachin,MMR001007,Mohnyin,အထက မြို့မတောင် ၊�
 MMR001,Kachin,MMR001007,Mohnyin,အထက ညောင်ကုန်း၊ နန်းမား,3/4/2020,NA,NA,17
 MMR001,Kachin,MMR001007,Mohnyin,အလက(ခွဲ) မြို့မ ရန်အောင်၊ နန်းမား,3/4/2020,NA,NA,6
 MMR001,Kachin,MMR001007,Mohnyin,အထက နန့်မွန်း၊ အင်းတော်ကြီး,3/4/2020,NA,NA,14
+MMR002,Kayah,MMR002001,Loikaw,သာသနာ့ဗိမာန်,5/4/2020,15,9,24
+MMR002,Kayah,MMR002001,Loikaw,အား/ကာသိပ္ပံ,5/4/2020,43,12,55
+MMR002,Kayah,MMR002001,Loikaw,သူနာပြု/သားဖွား သင်တန်းကျောင်း,5/4/2020,16,3,19
+MMR002,Kayah,MMR002001,Loikaw,အ.လ.က (၂),5/4/2020,0,0,0
+MMR002,Kayah,MMR002002,Demoso,ဒီးမော့ဆို အ.ထ.က,5/4/2020,29,40,69
+MMR002,Kayah,MMR002002,Demoso,နန်းမယ်ခုံ အ.ထ.က,5/4/2020,27,10,37
+MMR002,Kayah,MMR002002,Demoso,ပန်ပက် အ.လ.က,5/4/2020,18,22,40
+MMR002,Kayah,MMR002002,Demoso,မိုးလုံလေလုံ အားကစားရုံ,5/4/2020,15,0,15
+MMR002,Kayah,MMR002003,Hpruso,မြို့နယ်ခန်းမ,5/4/2020,16,0,16
+MMR002,Kayah,MMR002003,Hpruso,လောဘူးဒါး အ.လ.က(ခွဲ),5/4/2020,3,24,27
+MMR002,Kayah,MMR002003,Hpruso,ဖရူဆိုဆေးရုံ,5/4/2020,2,0,2
+MMR002,Kayah,MMR002004,Shadaw,ရှားတော အ.ထ.က,5/4/2020,7,2,9
+MMR002,Kayah,MMR002005,Bawlake,စောလဖော်ခန်းမ + ဆေးရုံ (မိခင်ကလေးရုံးဟောင်း),5/4/2020,0,1,1
+MMR002,Kayah,MMR002005,Bawlake,အ.ထ.က (ဘောလခဲ),5/4/2020,0,0,0
+MMR002,Kayah,MMR002005,Bawlake,ရွာသစ် အ.ထ.က,5/4/2020,0,0,0
+MMR002,Kayah,MMR002005,Bawlake,ရွာသစ်ခန်းမဆောင်,5/4/2020,0,0,0
+MMR002,Kayah,MMR002006,Hpasawng,ဖားဆောင်း အ.ထ.က,5/4/2020,0,0,0
+MMR002,Kayah,MMR002006,Hpasawng,လိုခါးလို ကြယ်ဖြူခန်းမ (မော်ချီး),5/4/2020,0,0,0
+MMR002,Kayah,MMR002006,Hpasawng,သတ္တုတူးဖော်ရေးလုပ်ငန်းစက်ရုံ ဝန်ထမ်းအိမ်ရာ,5/4/2020,0,0,0
+MMR002,Kayah,MMR002007,Mese,မယ်စဲ့မြို့နယ် ကျန်းမာရေးဌာနပိုင်အဆောက်အဦ,5/4/2020,3,3,6
+MMR001,Kachin,MMR001011,Shwegu,နေအိမ်,3/4/2020,NA,NA,70
+MMR001,Kachin,MMR001011,Shwegu,ဘာသာရေးအဆောက်အဦး,3/4/2020,NA,NA,13
+MMR001,Kachin,MMR001011,Shwegu,စာသင်ကျောင်း/တက္ကသိုလ်,3/4/2020,NA,NA,88

@@ -190,6 +190,7 @@ Archived datasets of MoHS Dashboard Data
 * Phyo Ko Ko
 * Ye Min Aung
 * Thet Paing Myo
+* Myat Min Soe
 * Aung Htun Lin (The Ananda)
 * Nyan Lynn Myint (The Ananda)
 * Htin Kyaw Aye (The Ananda) 
